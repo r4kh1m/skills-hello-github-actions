@@ -1,3 +1,4 @@
+EMOJI
 <header>
 
 # Hello GitHub Actions
